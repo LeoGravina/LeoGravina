@@ -27,13 +27,11 @@ Sou um desenvolvedor orientado a criar interfaces que não apenas funcionam, mas
 
 Um exemplo prático do meu trabalho é o projeto Lanterna Mágica, onde transformei uma aplicação de listagem de filmes em uma plataforma completa, implementando funcionalidades como autenticação, banco de dados em tempo real e um design imersivo com micro-interações detalhadas.
 
-🔭 Atualmente, estou aprimorando os projetos Lanterna Mágica, COntrole de REURB e Health System, explorando novas funcionalidades para torná-los ainda mais robustos.
+🔭 Atualmente, estou aprimorando os projetos Lanterna Mágica, Controle de REURB e Health System, explorando novas funcionalidades para torná-los ainda mais robustos.
 
 🌱 Aprofundando meus conhecimentos em TypeScript para construir aplicações mais seguras e escaláveis.
 
 👯 Busco oportunidades para colaborar em projetos front-end que desafiem minha criatividade e habilidades técnicas.
-
-💬 Estou aberto a conversas sobre React, Vite, Firebase, design de componentes e estratégias para criar uma experiência de usuário memorável.
 
 🛠️ Tecnologias e Ferramentas
 
