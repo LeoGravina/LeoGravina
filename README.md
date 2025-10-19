@@ -52,7 +52,6 @@ Essas são as ferramentas que usei para dar vida ao Lanterna Mágica e que utili
 
 <p align="center">
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoGravina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGravina&layout=compact&langs_count=7&theme=algolia"/>
 </p>
 
